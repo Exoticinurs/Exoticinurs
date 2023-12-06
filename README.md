@@ -1,6 +1,6 @@
 ### Hi there 👋
 [Exoticinurs](https://github.com/Exoticinurs)!
-
+[![](https://www.codewars.com/users/Exoticinurs/badges/micro)]
 [![](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:bc1q3cra9zeuadau9cpvp7nvmaaf3ph3pekn0e5g7s)
 
 <div>
