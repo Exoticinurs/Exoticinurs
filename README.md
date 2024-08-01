@@ -1,4 +1,5 @@
 ### Hi there 👋
+# I don't upload all of my projects to GitHub, too lazy..
 [Exoticinurs](https://github.com/Exoticinurs)!
 ![](https://www.codewars.com/users/Exoticinurs/badges/micro)
 
