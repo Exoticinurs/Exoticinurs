@@ -4,7 +4,6 @@
 ![](https://www.codewars.com/users/Exoticinurs/badges/micro)
 
 
-<div>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=exoticinurs&include_all_commits=true&count_private=true&&show_icons=true&theme=jolly" width="400"></a> 
+<div> 
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=exoticinurs&count_private=true&show_icons=true&theme=jolly" width="400"></a>
 </div>
